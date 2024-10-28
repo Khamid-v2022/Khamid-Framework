@@ -1,0 +1,15 @@
+{
+    "name": "khamid/framework",
+    "autoload": {
+        "psr-4": {
+            "Khamid\\Framework\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khamid",
+            "email": "khamid.webdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
